@@ -1,0 +1,81 @@
+
+/*************TAG SELECTORS*************/
+
+
+body {
+    background-color: #fff;
+    margin: 0;
+}
+
+p {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 16px;
+    letter-spacing: 1px;
+  }
+
+h1 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-variant-ligatures: normal;
+    font-size: 24px;
+    letter-spacing: 1px;
+
+}
+
+h2 {
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 16px;
+    letter-spacing: 1px;
+
+}
+
+h3 {
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-variant-ligatures: normal;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+ul {
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+table {
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+hr {
+    border-color: #000;
+    width: 100%;
+}
+
+
+
+/*************CLASS SELECTORS*************/
+
+.header {
+    background-color:#fff;
+}
+
+/*************ID SELECTORS*************/
+
+#blue {
+    color: blue;
+}
+
+
